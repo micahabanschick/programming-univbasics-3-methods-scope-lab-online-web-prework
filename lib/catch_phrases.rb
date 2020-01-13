@@ -12,5 +12,5 @@ def link
 end 
 
 def any_phrase(arg) 
-  puts "#{arg}."
+  puts "#{arg}"
 end 
